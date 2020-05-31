@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "220436315119",
+    "firebase_url": "https://imagetotext-4f0db.firebaseio.com",
+    "project_id": "imagetotext-4f0db",
+    "storage_bucket": "imagetotext-4f0db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220436315119:android:3523c1aa5b76038163941a",
+        "android_client_info": {
+          "package_name": "com.ravi.imagetotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220436315119-d9p5ftb6o2e7g2q1sl6nesor6cem89uv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApKYlegUP77vTOHd21HqyeKSYZo7D6TUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220436315119-d9p5ftb6o2e7g2q1sl6nesor6cem89uv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

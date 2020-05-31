@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="shr_product_grid_spacing">12dp</dimen>
+    <dimen name="shr_product_grid_spacing_small">4dp</dimen>
+
+    <dimen name="activity_margin">16dp</dimen>
+</resources>

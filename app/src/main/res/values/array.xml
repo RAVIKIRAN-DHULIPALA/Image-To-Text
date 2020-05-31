@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="save_items">
+        <item>txt</item>
+        <item>Pdf</item>
+    </string-array>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageToText</string>
+    <string name="modif_string">yyyy-MM-dd HH:mm:ss</string>
+    <string name="no_items">No Items</string>
+</resources>
